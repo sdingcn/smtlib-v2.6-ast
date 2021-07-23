@@ -6,7 +6,7 @@ Running ```python3 executor.py``` will produce the usage message.
 
 ## example
 
-The following commands read ```formula-file.smt2```'s content and pretty-print it to ```stdout```.
+The following commands build the project, read ```formula-file.smt2```'s content, and pretty-print the content to ```stdout```.
 
 ```python3 executor.py build```
 
